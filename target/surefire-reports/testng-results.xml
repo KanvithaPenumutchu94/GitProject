@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-13T21:47:06 IST" name="Suite" finished-at="2023-12-13T21:47:35 IST" duration-ms="28800">
+    <groups>
+    </groups>
+    <test started-at="2023-12-13T21:47:06 IST" name="Test" finished-at="2023-12-13T21:47:35 IST" duration-ms="28800">
+      <class name="NewPackage.NewClass4">
+        <test-method signature="test1()[pri:0, instance:NewPackage.NewClass4@1613674b]" started-at="2023-12-13T21:47:14 IST" name="test1" finished-at="2023-12-13T21:47:16 IST" duration-ms="2226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- NewPackage.NewClass4 -->
+      <class name="NewPackage.NewClass5">
+        <test-method signature="test1()[pri:0, instance:NewPackage.NewClass5@27ff5d15]" started-at="2023-12-13T21:47:16 IST" name="test1" finished-at="2023-12-13T21:47:29 IST" duration-ms="13448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- NewPackage.NewClass5 -->
+      <class name="NewPackage.NewClass2">
+        <test-method signature="test1()[pri:0, instance:NewPackage.NewClass2@69e1dd28]" started-at="2023-12-13T21:47:06 IST" name="test1" finished-at="2023-12-13T21:47:10 IST" duration-ms="4307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- NewPackage.NewClass2 -->
+      <class name="NewPackage.NewClass3">
+        <test-method signature="test1()[pri:0, instance:NewPackage.NewClass3@5ace1ed4]" started-at="2023-12-13T21:47:10 IST" name="test1" finished-at="2023-12-13T21:47:14 IST" duration-ms="3287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- NewPackage.NewClass3 -->
+      <class name="NewPackage.NewClass1">
+        <test-method signature="test1()[pri:0, instance:NewPackage.NewClass1@4e096385]" started-at="2023-12-13T21:47:29 IST" name="test1" finished-at="2023-12-13T21:47:35 IST" duration-ms="5511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- NewPackage.NewClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
